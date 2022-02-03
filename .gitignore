@@ -1,4 +1,4 @@
 venv
 images/test
 images/train
-
+.ipynb_checkpoints
